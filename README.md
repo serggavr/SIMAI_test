@@ -116,4 +116,4 @@ events: [
 Ключу function: задается функция, которая будет выполняться слушателем  
 ***
   
-Ссылка на страницу с  [GitHub pages](https://github.com/)
+Ссылка на страницу с  [GitHub pages](https://serggavr.github.io/SIMAI_test/)
