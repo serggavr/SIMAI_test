@@ -1,0 +1,29 @@
+:root {
+  --black: #121212;
+  --white: #fafafa;
+}
+
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: var(--black);
+  background-color: aliceblue;
+}
+
+
+#root {
+  margin: 0 auto;
+  max-width: 900px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+  position: relative;
+  padding-bottom: 150px;
+  display: flex;
+  flex-direction: column;
+}
